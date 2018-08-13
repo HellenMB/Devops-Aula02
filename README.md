@@ -1,4 +1,5 @@
 # Devops-Aula02
-Angelina Jolie
+Amanda Seyfried
 Megan Fox
 Scarlett Johansson
+Chloe Grace Moretz
